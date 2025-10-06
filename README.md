@@ -44,6 +44,7 @@ Pizza-Sales-PowerBI-SQL-Project/
 │   └── Pizza_Sales_Project_Documentation.docx
 │
 ├── 📁 scripts/            # SQL analysis scripts
+│   ├── Data Schema.sql
 │   ├── sales_overview.sql
 │   ├── category_performance.sql
 │   ├── top_bottom_performers.sql
