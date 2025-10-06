@@ -130,12 +130,4 @@ After analyzing the data using SQL, an interactive **Power BI Dashboard** was cr
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/Pizza-Sales-PowerBI-SQL-Project.git
-
-
-## 🗂️ Repository Structure
 
